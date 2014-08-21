@@ -1,0 +1,3 @@
+To remap QT values to account for 2011-to-2012 changes in detector-to-QT
+mapping use the remapqt.py script with fmsMap2011.txt and fmsMap2012.txt.
+Run remapqt.py --help for more info.
